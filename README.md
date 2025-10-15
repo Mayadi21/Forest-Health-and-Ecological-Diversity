@@ -46,20 +46,6 @@ Notebook ini berisi eksplorasi dan analisis data mengenai **kesehatan hutan** da
 - Geodatasets
 - Sklearn
 
-## 🧾 Fitur Dataset
-
-| Nama Kolom                 | Deskripsi                                                        |
-|----------------------------|------------------------------------------------------------------|
-| `Plot_ID`                  | ID unik untuk setiap lokasi plot                                 |
-| `Latitude`, `Longitude`    | Koordinat geografis plot                                         |
-| `DBH`                      | Diameter batang pohon pada ketinggian dada (cm)                  |
-| `Tree_Height`              | Tinggi pohon (m)                                                 |
-| `Crown_Width_NS`, `Crown_Width_EW` | Lebar tajuk pohon dari arah utara–selatan dan timur–barat (m)   |
-| `Site_Condition`           | Kondisi lokasi / ekologi                                         |
-| `Tree_Health`              | Indikator kesehatan pohon                                        |
-
-> *Catatan: Beberapa nama kolom dapat bervariasi tergantung versi dataset.*
-
 ## 🚀 Cara Menjalankan Notebook
 
 1. Clone repository ini:
